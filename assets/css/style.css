@@ -245,9 +245,6 @@ div.container .image-box div {
 }
 
 .kontak-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2rem;
     max-width: 1000px;
     margin: 0 auto;
 }
